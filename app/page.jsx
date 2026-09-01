@@ -121,6 +121,18 @@ export default function Home() {
           </div>
 
           <div className="social-header">
+  <a
+    href={INSTAGRAM_URL}
+    target="_blank"
+<span>Instagram</span>
+  </a>
+
+  <a
+    href={LINKEDIN_URL}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="social-link"
+ 
             {INSTAGRAM_URL}<Instagram size={18} />}
             />
 
