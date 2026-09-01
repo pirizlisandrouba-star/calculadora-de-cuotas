@@ -317,8 +317,8 @@ export default function Home() {
                 <Instagram size={18} />
               </a>
 
-              {LINKEDIN_URL}
-                <Linkedin size={18} />
+              href={LINKEDIN_URL}
+                ze={18} />
               </a>
             </div>
           </div>
